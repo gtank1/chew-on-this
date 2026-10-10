@@ -29,13 +29,27 @@
     </image>
 
     <item>
+      <title>Leftover Pasta Is Healthier (Seriously): The Science of Resistant Starch</title>
+      <description>Alex and Jordan explain carb retrogradation: why cooling rice, pasta, and potatoes creates resistant starch, lowers the blood sugar spike, feeds your gut bacteria — and why reheating doesn't undo it. Plus the overnight test you can try tonight.</description>
+      <itunes:summary>Alex and Jordan explain carb retrogradation: why cooling rice, pasta, and potatoes creates resistant starch, lowers the blood sugar spike, feeds your gut bacteria — and why reheating doesn't undo it.</itunes:summary>
+      <pubDate>Sat, 10 Oct 2026 16:00:00 -0600</pubDate>
+      <guid isPermaLink="false">chew-on-this-ep2-resistant-starch</guid>
+      <enclosure url="https://muse.ai/podcasts/media/677779452078285/192ee547-994c-4021-80f0-90670c612a88/ep-eb02dd03-dcef-48c0-b937-5ec07852ac82.mp3"
+                 length="3461605"
+                 type="audio/mpeg"/>
+      <itunes:duration>7:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Are All Calories Really the Same?</title>
       <description>Alex and Jordan dig into why a calorie is and isn't just a calorie: digestion costs, hunger hormones, the Twinkie diet experiment, why alcohol pauses fat burning, and what your gut microbes have to do with it.</description>
       <itunes:summary>Alex and Jordan dig into why a calorie is and isn't just a calorie: digestion costs, hunger hormones, the Twinkie diet experiment, why alcohol pauses fat burning, and what your gut microbes have to do with it.</itunes:summary>
       <pubDate>Sat, 10 Oct 2026 12:00:00 -0600</pubDate>
-      <guid isPermaLink="false">chew-on-this-ep1-calories</guid>
-      <enclosure url="https://muse.ai/podcasts/media/677779452078285/192ee547-994c-4021-80f0-90670c612a88/ep-e53a9717-08bf-4d81-9f66-89b06c40fe5a.mp3"
-                 length="3837733"
+      <guid isPermaLink="false">chew-on-this-ep1-calories-v2</guid>
+      <enclosure url="https://muse.ai/podcasts/media/677779452078285/192ee547-994c-4021-80f0-90670c612a88/ep-ae3419c6-a4e3-4fa3-9339-a2c40559ffb3.mp3"
+                 length="3834853"
                  type="audio/mpeg"/>
       <itunes:duration>7:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
