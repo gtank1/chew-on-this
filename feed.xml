@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chew On This</title>
+    <description>Chew On This — bite-sized health facts worth chewing on. Each episode, Alex and Jordan dig into the surprising science behind food, exercise, and your body: why your gut microbes decide how many calories you actually absorb, what protein really does, and which health "rules" are total myths. No lectures, no fad diets — just the fascinating stuff, served in minutes.</description>
+    <link>https://www.youtube.com/@GregTank</link>
+    <language>en</language>
+    <managingEditor>GregsTank@gmail.com (Greg Tank)</managingEditor>
+    <itunes:owner>
+      <itunes:name>Greg Tank</itunes:name>
+      <itunes:email>GregsTank@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Greg Tank</itunes:author>
+    <itunes:summary>Chew On This — bite-sized health facts worth chewing on. Alex and Jordan dig into the surprising science behind food, exercise, and your body. No lectures, no fad diets — just the fascinating stuff, served in minutes.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Nutrition"/>
+    </itunes:category>
+    <!-- Show art: https://gtank1.github.io/chew-on-this/cover.png
+         (cover.png uploaded to the repo) -->
+    <itunes:image href="https://gtank1.github.io/chew-on-this/cover.png"/>
+    <image>
+      <url>https://gtank1.github.io/chew-on-this/cover.png</url>
+      <title>Chew On This</title>
+      <link>https://www.youtube.com/@GregTank</link>
+    </image>
+
+    <item>
+      <title>Are All Calories Really the Same?</title>
+      <description>Alex and Jordan dig into why a calorie is and isn't just a calorie: digestion costs, hunger hormones, the Twinkie diet experiment, why alcohol pauses fat burning, and what your gut microbes have to do with it.</description>
+      <itunes:summary>Alex and Jordan dig into why a calorie is and isn't just a calorie: digestion costs, hunger hormones, the Twinkie diet experiment, why alcohol pauses fat burning, and what your gut microbes have to do with it.</itunes:summary>
+      <pubDate>Sat, 10 Oct 2026 12:00:00 -0600</pubDate>
+      <guid isPermaLink="false">chew-on-this-ep1-calories</guid>
+      <enclosure url="https://muse.ai/podcasts/media/677779452078285/192ee547-994c-4021-80f0-90670c612a88/ep-e53a9717-08bf-4d81-9f66-89b06c40fe5a.mp3"
+                 length="3837733"
+                 type="audio/mpeg"/>
+      <itunes:duration>7:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <!-- New episodes go here: copy the <item> block above, update title,
+         description, pubDate, guid, enclosure url/length, and duration. -->
+
+  </channel>
+</rss>
